@@ -1,0 +1,44 @@
+_repo: H--t_34033
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Suppanen, Aatto
+    aliases:
+    - Aatto S.
+    - Suppanen, Adolf
+    birthdate: 1855
+    deathdate: 1898
+    gutenberg_agent_id: '6674'
+    url: http://www.gutenberg.org/2009/agents/6674
+    wikipedia: http://fi.wikipedia.org/wiki/Aatto_Suppanen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leffler, Anne Charlotte
+    aliases:
+    - Edgren, Anne C. (Anne Charlotte)
+    - Cajanello, Anna Carlotta Leffler Edgren, duchessa di
+    - Edgren, Anna Charlotta
+    - Caianello, Anne Charlotte Leffler, duchessa di
+    birthdate: 1849
+    deathdate: 1892
+    gutenberg_agent_id: '36228'
+    url: http://www.gutenberg.org/2009/agents/36228
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Charlotte_Leffler
+description: ''
+gutenberg_issued: '2010-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34033'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: Häät
+url: http://www.gutenberg.org/ebooks/34033
